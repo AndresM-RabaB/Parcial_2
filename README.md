@@ -52,7 +52,7 @@ La columna `TOTAL_COLIFORM` fue eliminada por no aportar valor predictivo.
 
 ## Preprocesamiento de Datos
 
-* Verificación de valores nulos (no se encontraron)
+* Verificación y limpieza de valores nulos
 * Conversión de tipos `String → Float`
 * Eliminación de variables irrelevantes
 * Filtrado de registros válidos
@@ -159,7 +159,6 @@ Esto implica que:
 
 ## Limitaciones
 
-* Dataset pequeño (~30 registros)
 * Variables discretas (valores limitados)
 * No se aplicó validación cruzada
 * No se comparó con modelos clásicos (MLlib)
