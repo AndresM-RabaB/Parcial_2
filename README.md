@@ -30,7 +30,7 @@ Se sigue una metodología basada en **CRISP-DM**, cubriendo:
 * `Indian_States`- Archivos Shapefile para visualización geográfica
 ---
 
-## 🧪 Dataset
+## Dataset
 
 El dataset contiene mediciones fisicoquímicas y bacteriológicas de ríos en distintos estados de la India (fuente: RiverIndia).
 
